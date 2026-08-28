@@ -215,8 +215,9 @@ and includes:
 -   Overall Delivery Performance
 -   Key Business Insights
 
-> **Dashboard Screenshot:** Add a screenshot of the completed Excel
-> dashboard here when uploading the project to GitHub.
+### Dashboard Preview
+
+![Delivery Logistics Performance Dashboard](dashboard.png)
 
 ## Workbook Structure
 
